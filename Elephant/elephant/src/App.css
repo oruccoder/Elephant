@@ -113,8 +113,8 @@ nav a{
 
 @media(max-width: 890px){
   .content img{
-    width: 400px;
-    height: 40vh;
+    width: 340px;
+    height: 340px;
   }
 }
 .gifts_images{
@@ -190,6 +190,7 @@ nav a{
 .trending{
   padding: 45px 0;
   display: flex;
+  
 }
 
 @media(max-width: 1290px){
@@ -320,17 +321,16 @@ nav a{
     justify-content: center;
     overflow: hidden;
   }
-  
 
   .trending_img img{
     width: 481px;
-    height: auto;
+    height: 481px;
     overflow: hidden;
   }
 
   .collection_img img{
-    width: 400px;
-    height: 39vh;
+    width: 360px;
+    height: 360px;
     overflow: hidden;
   }
 }
@@ -454,6 +454,7 @@ nav a{
   .trending_img img{
     width: 390px !important;
     overflow: hidden;
+
   }
 }
 
